@@ -1,0 +1,38 @@
+[11.17][10:45:23] HTMLREADER-VISITHTML: http://www.igi2.xaa.pl/mautorun/update
+sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+java.net.URL.openStream(Unknown Source)
+pl.mario.mautorun.Web.visitHTML(Web.java:33)
+pl.mario.mautorun.Web.update(Web.java:90)
+pl.mario.mautorun.Main.main(Main.java:51)
+
+
+[11.17][10:45:23] HTMLREADER-VISITHTML: http://www.mariopl.y0.pl/mautorun/update
+sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+java.net.URL.openStream(Unknown Source)
+pl.mario.mautorun.Web.visitHTML(Web.java:33)
+pl.mario.mautorun.Web.update(Web.java:92)
+pl.mario.mautorun.Main.main(Main.java:51)
+
+
+[11.17][10:45:32] HTMLREADER-VISITHTML: http://www.igi2.xaa.pl/mautorun/mautorunip.php
+sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+java.net.URL.openStream(Unknown Source)
+pl.mario.mautorun.Web.visitHTML(Web.java:33)
+pl.mario.mautorun.Web.pobierzIP(Web.java:71)
+pl.mario.mautorun.Server.<init>(Server.java:62)
+pl.mario.mautorun.Main.run(Main.java:80)
+
+
+[11.17][10:45:32] HTMLREADER-VISITHTML: http://www.mariopl.y0.pl/mautorun/mautorunip.php
+sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+java.net.URL.openStream(Unknown Source)
+pl.mario.mautorun.Web.visitHTML(Web.java:33)
+pl.mario.mautorun.Web.pobierzIP(Web.java:74)
+pl.mario.mautorun.Server.<init>(Server.java:62)
+pl.mario.mautorun.Main.run(Main.java:80)
+
+

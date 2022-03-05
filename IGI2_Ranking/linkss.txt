@@ -1,0 +1,9 @@
+Score
+Player/Login
+Home/Donate
+ip.txt
+Remote/HeartBeat
+Remote/Login
+Player
+checksum.txt
+

@@ -1,0 +1,66 @@
+[15:30:58] 
+[15:30:58] --Players
+[15:30:58] [1] sn[83.23.141.199:26015]
+[15:30:58]    [078][0.0][18]m [252]msIdle gout[0] gin[0] b[0]
+[15:30:58] [9] Wait for Jehad[182.186.73.69:26015]
+[15:30:58]    [184][0.4][5]m [30]msIdle gout[0] gin[0] b[0]
+[15:30:58] [11] TIK[139.190.200.87:26015]
+[15:30:58]    [243][0.8][1]m [27]msIdle gout[0] gin[0] b[0]
+[15:31:04] Wait for Jehad was killed by a shot in the chest by sn [M82A1][15:31:04] 
+[15:31:07] TIK suicided[15:31:07] 
+[15:31:08] Server: Accepting spawn from[9][Wait for Jehad]
+[15:31:08] Client: Remote spawned[9][Wait for Jehad]
+[15:31:08] AddEquipment: Adding itemID=4 to client[9]
+[15:31:08] Client_EquipHandler[9] got pickuptype=0, pickupid=4,ammo=10000
+[15:31:13] 
+[15:31:13] out [all 1959][new 1864][re 40][ack 53][ext 2][ok 1959][err 0]
+[15:31:13] out [max50 3110][max100 4103]  in [max50 1028][max100 1496]
+[15:31:15] Server: Accepting spawn from[11][TIK]
+[15:31:15] Client: Remote spawned[11][TIK]
+[15:31:16] Server info sent to 101.222.166.41:27760
+[15:31:16] Network_AddToLoadQueue: [101.222.166.41:27760]
+[15:31:20] Server info sent to 202.69.11.186:2745
+[15:31:20] Network_AddToLoadQueue: [202.69.11.186:2745]
+[15:31:20] Server info sent to 109.200.20.149:37659
+[15:31:20] Network_AddToLoadQueue: [109.200.20.149:37659]
+[15:31:20] NETWORKPACKET_TYPE_CLIENTCONNECT [109.200.20.149:37659]
+[15:31:20] Network_RemoveFromLoadQueue: Socket removed from load queue
+[15:31:20] IsClientMapCorrect: Client 3 Server 3
+[15:31:20] Granted access to [109.200.20.149:37659][15:31:20] 
+[15:31:20] NETWORKCONNECTIONRESPONSE_SUCCESS [109.200.20.149:37659]
+[15:31:20] Popped new networkID for joining client: [12][109.200.20.149:37659]
+[15:31:20] TeamManager: Selecting BAD to balance
+[15:31:20] Createplayer: Client already exists[11]
+[15:31:20] NETWORKPACKET_TYPE_CLIENTCONNECT [101.222.166.41:27760]
+[15:31:20] Network_RemoveFromLoadQueue: Socket removed from load queue
+[15:31:20] IsClientMapCorrect: Client 3 Server 3
+[15:31:20] Granted access to [101.222.166.41:27760][15:31:20] 
+[15:31:20] NETWORKCONNECTIONRESPONSE_SUCCESS [101.222.166.41:27760]
+[15:31:20] Popped new networkID for joining client: [13][101.222.166.41:27760]
+[15:31:21] Received [CRPL] from unknown source[13]
+[15:31:21] TeamManager: Selecting BAD to balance
+[15:31:21] Protonamy has joined the game[15:31:21] 
+[15:31:21] Client[13][Protonamy] created locally
+[15:31:21] AddEquipment: Adding itemID=15 to client[11]
+[15:31:21] Client_EquipHandler[11] got pickuptype=0, pickupid=15,ammo=10000
+[15:31:21] Server_AuthCallBack: 13 0 'CD Key in use'
+[15:31:21] [13] CD authentication OK[15:31:21] 
+[15:31:21] Server info sent to 109.200.20.149:58368
+[15:31:21] Network_AddToLoadQueue: [109.200.20.149:58368]
+[15:31:22] NETWORKPACKET_TYPE_CLIENTCONNECT [109.200.20.149:58368]
+[15:31:22] Network_RemoveFromLoadQueue: Socket removed from load queue
+[15:31:22] IsClientMapCorrect: Client 3 Server 3
+[15:31:22] Granted access to [109.200.20.149:58368][15:31:22] 
+[15:31:22] NETWORKCONNECTIONRESPONSE_SUCCESS [109.200.20.149:58368]
+[15:31:22] Popped new networkID for joining client: [14][109.200.20.149:58368]
+[15:31:22] TeamManager: Selecting INPUT TEAM (was balanced
+[15:31:22] Createplayer: Client already exists[13]
+[15:31:22] Server info sent to 109.200.20.149:37447
+[15:31:22] Network_AddToLoadQueue: [109.200.20.149:37447]
+[15:31:22] NETWORKPACKET_TYPE_CLIENTCONNECT [109.200.20.149:37447]
+[15:31:22] Network_RemoveFromLoadQueue: Socket removed from load queue
+[15:31:22] IsClientMapCorrect: Client 3 Server 3
+[15:31:22] Granted access to [109.200.20.149:37447][15:31:22] 
+[15:31:22] NETWORKCONNECTIONRESPONSE_SUCCESS [109.200.20.149:37447]
+[15:31:22] Popped new networkID for joining client: [15][109.200.20.149:37447]
+[15:31:23] TeamManager: Selecting INPUT TEAM (was balanced

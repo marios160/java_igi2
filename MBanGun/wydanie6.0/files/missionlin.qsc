@@ -1,0 +1,37 @@
+// Mission configuration file.
+// Note that all language dependant text must be isolated in language spesific resource files.
+DefineMission(
+// Mission ID (must be unique between missions)
+	115,
+
+// GameMode ID
+	"M", "U", "L", "T",
+
+
+// Name of mission
+	"Sweet Russia",
+
+// Description of mission
+	"Zakladaj bialy kombinezon i ruszaj!",
+
+// Which terrain to use
+	"",
+
+// Mission directory
+	"missions/multiplayer/Sweet_Russia",
+	
+// Common models directory
+	"missions/multiplayer/common",
+	
+// Mission models directory
+	"missions/multiplayer/Sweet_Russia",
+	
+// Common models resource name
+	"multiplayer",
+	
+// Mission models resource name
+	"russia",
+	
+// Mission Screenshot resource name
+	"loading.jpg"
+);

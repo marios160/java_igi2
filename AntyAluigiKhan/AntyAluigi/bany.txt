@@ -1,0 +1,13 @@
+/sbin/iptables -I INPUT -s 178.172.192.71 -j DROP#[08.04][00:04:03]  Reason: BUGS CRASH
+/sbin/iptables -I INPUT -s 178.172.192.71 -j DROP#[08.04][00:04:13]  Reason: BUGS CRASH
+netsh advfirewall firewall add rule name="CRASHER" dir=out interface=any action=block remoteip=178.172.192.71/       #[08.22][00:23:31]  Reason: BUGS CRASH
+netsh advfirewall firewall add rule name="CRASHER" dir=out interface=any action=block remoteip=178.172.192.71/32       #[08.22][00:24:54]  Reason: BUGS CRASH
+netsh advfirewall firewall add rule name="CRASHER" dir=out protocol=udp interface=any action=block remoteip=178.172.192.71/32       #[08.22][00:25:52]  Reason: BUGS CRASH
+netsh advfirewall firewall add rule name="CRASHER" dir=in protocol=udp interface=any action=block remoteip=178.172.192.71/32       #[08.22][00:32:51]  Reason: BUGS CRASH
+netsh advfirewall firewall add rule name="CRASHER" dir=in protocol=udp interface=any action=block remoteip=178.172.192.71/32       #[08.22][13:44:38]  Reason: BUGS CRASH
+netsh advfirewall firewall add rule name="CRASHER" dir=in protocol=udp interface=any action=block remoteip=178.172.192.71/32       #[08.22][13:45:23]  Reason: BUGS CRASH
+netsh advfirewall firewall add rule name="CRASHER" dir=in protocol=udp interface=any action=block remoteip=178.172.192.71/32       #[08.22][17:36:35]  Reason: BUGS CRASH
+netsh advfirewall firewall add rule name="CRASHER" dir=in protocol=udp interface=any action=block remoteip=178.172.192.71/32       #[08.22][17:39:37]  Reason: BUGS CRASH
+netsh advfirewall firewall add rule name="CRASHER" dir=in protocol=udp interface=any action=block remoteip=178.172.192.71/32netsh advfirewall firewall add rule name="CRASHER" dir=in protocol=udp interface=any action=block remoteip=178.172.192.71/32netsh advfirewall firewall add rule name="CRASHER" dir=in protocol=udp interface=any action=block remoteip=178.172.192.71/32
+netsh advfirewall firewall add rule name="CRASHER" dir=in protocol=udp interface=any action=block remoteip=178.172.192.71/32
+netsh advfirewall firewall add rule name="CRASHER" dir=in protocol=udp interface=any action=block remoteip=178.172.192.71/32

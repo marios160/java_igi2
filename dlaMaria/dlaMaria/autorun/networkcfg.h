@@ -1,0 +1,141 @@
+#ifndef NETWORKCFG_H
+#define NETWORKCFG_H
+
+#include <iostream>
+#include <fstream>
+#include <windows.h>
+
+using namespace std;
+
+class networkcfg
+{
+public:
+    string svname;
+    string svpassword;
+    string rconpass;
+    int svport;
+    int svport_min;
+    int svport_max;
+    int svinterface;
+    int svinterface_min;
+    int svinterface_max;
+    int clport;
+    int clport_min;
+    int clport_max;
+    int maxplayers;
+    int maxplayers_min;
+    int maxplayers_max;
+    int specmode;
+    int specmode_min;
+    int specmode_max;
+    int teamdamage;
+    int teamdamage_min;
+    int teamdamage_max;
+    int autobalance;
+    int autobalance_min;
+    int autobalance_max;
+    int warmup;
+    int warmup_min;
+    int warmup_max;
+    int publicc;
+    int publicc_min;
+    int publicc_max;
+    int activatemap;
+    int activatemap_min;
+    int activatemap_max;
+    int moneystart;
+    int moneystart_min;
+    int moneystart_max;
+    int moneycap;
+    int moneycap_min;
+    int moneycap_max;
+    int moneykill;
+    int moneykill_min;
+    int moneykill_max;
+    int moneyteamkill;
+    int moneyteamkill_min;
+    int moneyteamkill_max;
+    int moneyplayerobjwin;
+    int moneyplayerobjwin_min;
+    int moneyplayerobjwin_max;
+    int moneyteamobjwin;
+    int moneyteamobjwin_min;
+    int moneyteamobjwin_max;
+    int moneyteamobjlost;
+    int moneyteamobjlost_min;
+    int moneyteamobjlost_max;
+    int moneymissionwin;
+    int moneymissionwin_min;
+    int moneymissionwin_max;
+    int moneymissionlost;
+    int moneymissionlost_min;
+    int moneymissionlost_max;
+    int maprounds;
+    int maprounds_min;
+    int maprounds_max;
+    int mapteamscore;
+    int mapteamscore_min;
+    int mapteamscore_max;
+    int objtime;
+    int objtime_min;
+    int objtime_max;
+    int bombtime;
+    int bombtime_min;
+    int bombtime_max;
+    int spawncost;
+    int spawncost_min;
+    int spawncost_max;
+    int spawntimer;
+    int spawntimer_min;
+    int spawntimer_max;
+    int spawnsafetimer;
+    int spawnsafetimer_min;
+    int spawnsafetimer_max;
+    int allowsniperrifles;
+    int allowsniperrifles_min;
+    int allowsniperrifles_max;
+    int smooth;
+    int smooth_min;
+    int smooth_max;
+    int bandwidth;
+    int bandwidth_min;
+    int bandwidth_max;
+    int choke;
+    int choke_min;
+    int choke_max;
+    int fillpercent;
+    int fillpercent_min;
+    int fillpercent_max;
+    int timeout;
+    int timeout_min;
+    int timeout_max;
+    int autokick;
+    int autokick_min;
+    int autokick_max;
+    int ploss;
+    int ploss_min;
+    int ploss_max;
+    int bombrepostime;
+    int bombrepostime_min;
+    int bombrepostime_max;
+    int forcefirstspec;
+    int forcefirstspec_min;
+    int forcefirstspec_max;
+    int pingmax;
+    int pingmax_min;
+    int pingmax_max;
+    int plossmax;
+    int plossmax_min;
+    int plossmax_max;
+    int idlemax;
+    int idlemax_min;
+    int idlemax_max;
+    int goutmax;
+    int goutmax_min;
+    int goutmax_max;
+
+    networkcfg();
+
+};
+
+#endif

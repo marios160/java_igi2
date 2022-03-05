@@ -1,0 +1,2655 @@
+[11.05][14:59:25] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][14:59:27] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][14:59:29] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][14:59:31] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][14:59:33] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][14:59:46] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][14:59:48] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][14:59:50] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][14:59:52] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][14:59:54] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:00:06] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:00:08] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:00:10] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:00:12] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:00:14] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:00:26] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:00:28] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:00:30] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:00:32] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:00:34] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:00:47] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:00:49] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:00:51] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:00:53] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:00:55] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:01:07] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:01:09] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:01:11] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:01:13] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:01:15] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:01:28] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:01:30] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:01:32] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:01:34] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:01:36] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:01:48] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:01:50] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:01:52] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:01:54] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:01:56] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:02:08] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:02:10] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:02:12] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:02:14] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:02:16] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:02:29] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:02:31] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:02:33] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:02:35] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:02:37] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:02:49] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:02:51] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:02:53] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:02:55] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:02:57] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:03:09] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:03:11] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:03:13] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:03:15] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:03:17] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:03:30] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:03:32] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:03:34] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:03:36] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:03:38] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:03:50] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:03:52] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:03:54] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:03:56] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:03:58] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:04:11] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:04:13] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:04:15] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:04:17] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:04:19] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:04:31] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:04:33] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:04:35] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:04:37] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:04:39] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:04:51] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:04:53] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:04:55] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:04:57] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:04:59] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:05:12] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:05:14] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:05:16] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:05:18] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:05:20] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:05:32] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:05:34] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:05:36] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:05:38] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:05:40] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:05:52] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:05:54] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:05:56] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:05:59] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:06:01] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:06:13] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:06:15] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:06:17] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:06:19] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:06:21] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:06:33] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:06:35] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:06:37] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:06:39] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:06:41] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:06:53] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:06:55] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:06:57] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:06:59] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:07:01] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:07:14] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:07:16] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:07:18] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:07:20] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:07:22] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:07:34] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:07:36] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:07:38] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:07:40] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:07:43] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:07:55] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:07:57] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:07:59] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:08:01] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:08:03] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:08:15] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:08:17] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:08:19] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:08:21] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:08:23] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:08:35] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:08:37] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:08:39] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:08:41] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:08:43] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:08:56] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:08:58] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:09:00] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:09:02] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:09:04] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:09:16] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:09:18] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:09:20] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:09:22] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:09:24] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:09:36] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:09:38] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:09:40] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:09:43] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:09:45] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:09:57] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:09:59] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:10:01] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:10:03] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:10:05] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:10:17] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:10:19] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:10:21] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:10:23] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:10:25] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:10:38] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:10:40] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:10:42] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:10:44] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:10:46] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:10:58] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:11:00] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:11:02] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:11:04] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:11:06] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:11:18] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:11:20] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:11:22] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:11:24] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:11:26] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:11:39] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:11:41] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:11:43] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:11:45] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:11:47] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:11:59] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:12:01] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:12:03] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:12:05] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:12:07] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:12:19] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:12:21] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:12:23] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:12:25] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:12:27] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:12:40] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:12:42] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:12:44] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:12:46] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:12:48] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:13:00] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:13:02] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:13:04] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:13:06] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:13:08] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:13:21] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:13:23] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:13:25] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:13:27] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:13:29] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:13:41] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:13:43] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:13:45] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:13:47] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:13:49] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:14:01] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:14:03] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:14:05] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:14:07] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:14:09] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:14:22] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:14:24] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:14:26] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:14:28] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:14:30] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:14:42] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:14:44] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:14:46] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:14:48] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:14:50] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:15:02] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:15:04] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:15:06] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:15:08] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:15:10] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:15:23] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:15:25] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:15:27] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:15:29] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:15:31] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:15:43] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:15:45] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:15:47] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:15:49] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:15:51] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:16:03] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:16:06] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:16:08] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:16:10] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:16:12] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:16:24] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:16:26] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:16:28] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:16:30] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:16:32] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:16:44] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:16:46] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:16:48] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:16:50] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:16:52] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:17:05] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:17:07] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:17:09] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:17:11] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:17:13] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:17:25] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:17:27] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:17:29] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:17:31] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:17:33] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:17:46] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:17:48] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:17:50] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:17:52] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:17:54] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:18:06] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:18:08] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:18:10] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:18:12] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:18:14] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:19:42] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:19:44] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:19:46] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:19:48] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:19:50] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:20:02] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:20:04] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:20:06] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:20:08] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:20:10] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:20:22] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:20:24] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:20:26] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:20:28] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+
+[11.05][15:20:30] SERVER-RUN: Receive timed out
+java.net.DualStackPlainDatagramSocketImpl.socketReceiveOrPeekData(Native Method)
+java.net.DualStackPlainDatagramSocketImpl.receive0(Unknown Source)
+java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+java.net.DatagramSocket.receive(Unknown Source)
+pl.mario.mautorun.Server.sendStatus(Server.java:728)
+pl.mario.mautorun.Server.run(Server.java:141)
+
+

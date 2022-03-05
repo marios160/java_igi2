@@ -1,0 +1,97 @@
+
+[16:17:41] -----RECEIVE-----
+[16:17:41] [HNUP] count=25728, #bytes=2778624
+[16:17:41] [RQPU] count=  15, #bytes=  1200
+[16:17:41] [WSFR] count= 204, #bytes= 22032
+[16:17:41] [STAT] count= 765, #bytes=110160
+[16:17:41] [PING] count= 383, #bytes= 26044
+[16:17:41] [RQSW] count=  15, #bytes=  1140
+[16:17:41] [SPWN] count=  15, #bytes=  1200
+[16:17:41] [SPEC] count=  66, #bytes=  5016
+[16:17:41] [LIST] count=  58, #bytes=  8232
+[16:17:41] [EQUI] count=  16, #bytes=  1344
+[16:17:41] [WSAT] count=  27, #bytes=  3024
+[16:17:41] [WSRL] count=  39, #bytes=  3120
+[16:17:41] [KILL] count=  16, #bytes=  1472
+[16:17:41] [WSRS] count= 141, #bytes= 18048
+[16:17:41] [RQDR] count=   2, #bytes=   264
+[16:17:41] [SETT] count=   1, #bytes=   148
+[16:17:41] [DAMG] count=   3, #bytes=   372
+[16:17:41] [ACTI] count=  15, #bytes=  1260
+[16:17:41] [WSZM] count=   5, #bytes=   420
+[16:17:41] [CHAT] count=   5, #bytes=  1660
+[16:17:41] [DEPL] count=   2, #bytes=   152
+[16:17:41] [OBJT] count=   1, #bytes=    80
+[16:17:41] MESSAGES  [#27522] [ave.size 108.5 ] [275.2 /sec]
+[16:17:41] DATA      [#Bytes 2985012] [256k     ] [238.8 kbits/sec] [29845.9 Bps]
+[16:17:41] Period: 100 s. Time to reset: (100/100)
+[16:17:41] 
+[16:17:41] -----SEND-----
+[16:17:41] [HNUP] count=6379, #bytes=688932
+[16:17:41] [ZNUP] count=28975, #bytes=5603449
+[16:17:41] [GMIM] count= 414, #bytes=822986
+[16:17:41] [STAT] count= 155, #bytes=149832
+[16:17:41] [PICK] count= 185, #bytes= 14800
+[16:17:41] [WSFR] count=1709, #bytes=184572
+[16:17:41] [PONG] count= 383, #bytes= 27576
+[16:17:41] [LIST] count= 118, #bytes= 18408
+[16:17:41] [SPWN] count= 204, #bytes= 16320
+[16:17:41] [ACTI] count= 936, #bytes= 78624
+[16:17:41] [SPEC] count= 761, #bytes= 57836
+[16:17:41] [EQUI] count= 213, #bytes= 17892
+[16:17:41] [TSCR] count= 124, #bytes= 13392
+[16:17:41] [WSAT] count= 336, #bytes= 37632
+[16:17:41] [WSRL] count= 475, #bytes= 38000
+[16:17:41] [DAMG] count= 198, #bytes= 24552
+[16:17:41] [DROP] count= 261, #bytes= 34452
+[16:17:41] [KILL] count= 213, #bytes= 19596
+[16:17:41] [WSRS] count=1679, #bytes=214912
+[16:17:41] [SETT] count=  12, #bytes=  1776
+[16:17:41] [UPGR] count=1066, #bytes=119392
+[16:17:41] [WSZM] count=  63, #bytes=  5292
+[16:17:41] [CHAT] count=  73, #bytes= 24236
+[16:17:41] [DEPL] count=  26, #bytes=  1976
+[16:17:41] [OBJT] count=  13, #bytes=  1040
+[16:17:41] MESSAGES  [#44971] [ave.size 182.7 ] [449.6 /sec]
+[16:17:41] DATA      [#Bytes 8217475] [768k     ] [657.3 kbits/sec] [82163.2 Bps]
+[16:17:41] Period: 100 s. Time to reset: (100/100)
+[16:17:41] 
+[16:17:44] Security systems offline for 3 minutes.[16:17:44] 
+[16:17:46] Server: Accepting spawn from[32][Blank & Jones]
+[16:17:46] Client: Remote spawned[32][Blank & Jones]
+[16:17:47] Consoled: User timed out
+[16:17:48] 
+[16:17:48] --Players
+[16:17:48] [16] Fi[G]hT | Leo[178.36.121.120:26015]
+[16:17:48]    [067][0.0][44]m [46]msIdle gout[0] gin[0] b[0]
+[16:17:48] [32]*Blank & Jones[89.230.118.135:26015]
+[16:17:48]    [030][1.0][24]m [34]msIdle gout[0] gin[0] b[0]
+[16:17:48] [34] octaneone[93.157.116.129:26015]
+[16:17:48]    [019][0.0][23]m [846]msIdle gout[0] gin[0] b[0]
+[16:17:48] [2] Jones[91.78.251.110:26015]
+[16:17:48]    [091][0.0][21]m [79]msIdle gout[0] gin[0] b[0]
+[16:17:48] [5] Fi[G]hT | G!n4koLoG[159.205.178.213:26015]
+[16:17:48]    [033][0.0][18]m [3]msIdle gout[0] gin[0] b[0]
+[16:17:48] [18] JUREK[164.127.73.219:26015]
+[16:17:48]    [041][0.0][18]m [41]msIdle gout[0] gin[0] b[0]
+[16:17:48] [22] TooJaaaa[79.185.108.54:26015]
+[16:17:48]    [083][0.4][17]m [779]msIdle gout[0] gin[0] b[0]
+[16:17:48] [4] John Silver[2.92.85.55:26015]
+[16:17:48]    [085][0.0][13]m [14]msIdle gout[0] gin[0] b[0]
+[16:17:48] [10] CIA SHEF[197.247.32.221:26015]
+[16:17:48]    [103][0.0][4]m [34]msIdle gout[0] gin[0] b[0]
+[16:17:48] [12] [AP]CzupaCzups[87.116.217.29:10454]
+[16:17:48]    [025][0.0][2]m [3]msIdle gout[0] gin[0] b[0]
+[16:17:48] [23] Falcar[89.176.120.104:26015]
+[16:17:48]    [047][0.0][2]m [14]msIdle gout[0] gin[0] b[0]
+[16:17:59] Server info sent to 178.172.192.71:1926
+[16:17:48] Network_AddToLoadQueue: [178.172.192.71:1926]
+[16:17:00] NETWORKPACKET_TYPE_CLIENTCONNECT [178.172.192.71:1927]
+[16:17:48] Network_RemoveFromLoadQueue: Socket not found in load queue
+[16:17:48] IsClientMapCorrect: Client 3 Server 3
+[16:17:48] Granted access to [178.172.192.71:1927][16:17:48] 
+[16:17:48] NETWORKCONNECTIONRESPONSE_SUCCESS [178.172.192.71:1927]
+[16:17:48] Popped new networkID for joining client: [13][178.172.192.71:1927]
+[16:17:48] Received [CRPL] from unknown source[1]
+[16:17:48] TeamManager: Selecting BAD to balance
+[16:17:48] Createplayer: Client already exists[12]

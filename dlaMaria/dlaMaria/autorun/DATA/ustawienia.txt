@@ -1,0 +1,17 @@
+// TO JEST PLIK KONFIGURACYJNY
+// tutaj jakis komentarz
+
+
+
+// puste linie pominac
+
+//networkconfig
+
+maxplayers=16
+maxplayers_min=5
+maxplayers_max=24
+
+//jedziemy dalej
+//jakies inne wartosci
+
+costam=567

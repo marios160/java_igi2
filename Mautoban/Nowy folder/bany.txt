@@ -1,0 +1,2 @@
+netsh advfirewall firewall add rule name="CRASHER" dir=in protocol=udp interface=any action=block remoteip=109.200.20.149/32       #[11.12][01:20:04]  Reason: BUGS CRASH
+netsh advfirewall firewall add rule name="CRASHER" dir=in protocol=udp interface=any action=block remoteip=109.200.20.149/32       #[11.12][01:20:08]  Reason: BUGS CRASH

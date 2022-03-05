@@ -1,0 +1,6 @@
+w pliku autoban.cfg znajduje sie:
+- zakodowany nick
+- kod autoryzacji
+
+Na ftp w pliku o nazwie danego nicku znajduje sie 
+- zakodowany kod autoryzacji

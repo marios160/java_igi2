@@ -1,0 +1,11 @@
+G36||Leg
+G36||Spawn
+suicide
+deagle||Leg
+deagle||Leg
+deagle||Head
+grenade
+knife
+deagle||Head||Death
+grenade||Death
+

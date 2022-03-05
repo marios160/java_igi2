@@ -1,0 +1,1 @@
+java -jar dist\IGI2Bugs.jar 185.12.5.62 58951

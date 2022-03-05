@@ -1,0 +1,2 @@
+/sbin/iptables -I INPUT -s 178.172.192.71 -j DROP#[08.04][00:04:03]  Reason: BUGS CRASH
+/sbin/iptables -I INPUT -s 178.172.192.71 -j DROP#[08.04][00:04:13]  Reason: BUGS CRASH

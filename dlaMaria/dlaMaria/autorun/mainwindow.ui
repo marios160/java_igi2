@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>690</width>
+    <height>514</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralWidget"/>
+  <widget class="QMenuBar" name="menuBar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>690</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <widget class="QMenu" name="menu_nie_wiem">
+    <property name="title">
+     <string> nie wiem</string>
+    </property>
+   </widget>
+   <widget class="QMenu" name="menuSdfsdf">
+    <property name="title">
+     <string>sdfsdf</string>
+    </property>
+    <addaction name="actionSdfdf"/>
+    <addaction name="separator"/>
+    <addaction name="actionSfdsdf"/>
+    <addaction name="actionSdfsfsa"/>
+   </widget>
+   <addaction name="menu_nie_wiem"/>
+   <addaction name="menuSdfsdf"/>
+  </widget>
+  <action name="actionSdfdf">
+   <property name="text">
+    <string>sdfdf</string>
+   </property>
+  </action>
+  <action name="actionSfdsdf">
+   <property name="text">
+    <string>sfdsdf</string>
+   </property>
+  </action>
+  <action name="actionSdfsfsa">
+   <property name="text">
+    <string>sdfsfsa</string>
+   </property>
+  </action>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <resources/>
+ <connections/>
+</ui>
